@@ -121,6 +121,6 @@ This project is for **educational and research purposes only**.
 ## 👨‍💻 Author
 
 **Abhishekh Wali**  
-MCA | Full-Stack Developer | AI Enthusiast  
+ | Full-Stack Developer | AI Enthusiast  
 
 ⭐ Star this repository if you find it useful!
